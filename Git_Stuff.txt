@@ -1,0 +1,1 @@
+This is my git folder it will be added to the local repository and tracked at the same time.
